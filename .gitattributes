@@ -1,0 +1,13 @@
+*.png diff=exif
+*.svg diff=exif
+*.fig diff=exif
+*.xml    text
+*.xsd    text
+*.xsl    text
+*.yml    text
+.gitattributes text
+KEY      text
+LICENSE* text
+*.png diff=exif
+*.gpg filter=gpg diff=gpg
+*.asc filter=gpg diff=gpg
