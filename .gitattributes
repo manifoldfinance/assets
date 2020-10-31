@@ -11,3 +11,5 @@ LICENSE* text
 *.png diff=exif
 *.gpg filter=gpg diff=gpg
 *.asc filter=gpg diff=gpg
+public/* linguist-generated
+head.html linguist-vendored
